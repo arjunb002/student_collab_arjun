@@ -5,9 +5,9 @@
 
 
 ## 🌟 **Why EduCollab Exists**  
-- **Students** at tier-2/3 colleges with global opportunities  
-- **Professors** with passionate researchers beyond their campus  
-- **Projects** with contributors, mentors, and investors  
+- **Students** at tier-2 and tier-3 institutions, connecting them with global research and development opportunities.  
+- **Professors** seeking talented researchers beyond their immediate academic networks.  
+- **Projects** by providing access to skilled contributors, experienced mentors, and potential investors. 
 
 *"Our open-source model lets any university run their own collaboration network"*  
 
